@@ -4,8 +4,5 @@
 int main(int argc, chatr **argv)
 {
 
-
-
-
 	exit(0);
 }
